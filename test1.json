@@ -1,0 +1,65 @@
+[
+    {
+        "image_id": "1",
+        "category": "category1",
+        "attributes": [
+            {
+                "attribute": "attribute1",
+                "tag": "tag1",
+                "prev_tag": "tag2"
+            },
+            {
+                "attribute": "attribute2",
+                "tag": "tag3",
+                "prev_tag": "tag4"
+            },
+            {
+                "attribute": "attribute3",
+                "tag": "tag5",
+                "prev_tag": "tag6"
+            }
+        ]
+    },
+    {
+        "image_id": "2",
+        "category": "category1",
+        "attributes": [
+            {
+                "attribute": "attribute1",
+                "tag": "tag2",
+                "prev_tag": "tag1"
+            },
+            {
+                "attribute": "attribute2",
+                "tag": "tag7",
+                "prev_tag": ""
+            },
+            {
+                "attribute": "attribute3",
+                "tag": "tag8",
+                "prev_tag": "tag5"
+            }            
+        ]
+    },
+    {
+        "image_id": "3",
+        "category": "category1",
+        "attributes": [
+            {
+                "attribute": "attribute1",
+                "tag": "tag9",
+                "prev_tag": ""
+            },
+            {
+                "attribute": "attribute2",
+                "tag": "tag4",
+                "prev_tag": ""
+            },
+            {
+                "attribute": "attribute3",
+                "tag": "tag5",
+                "prev_tag": ""
+            }            
+        ]
+    }
+]

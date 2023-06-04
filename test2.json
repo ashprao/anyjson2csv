@@ -1,0 +1,238 @@
+{
+    "took": 2,
+    "timed_out": false,
+    "_shards": {
+        "total": 3,
+        "successful": 3,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 13,
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "e0143bb3-d584-4a94-b80a-fcfd74a1e818",
+                "_type": "_doc",
+                "_id": "AJIO_23_DR",
+                "_score": 1.0,
+                "_source": {
+                    "analysis_result": {
+                        "attributes": [
+                            {
+                                "attribute_category": "womens-season",
+                                "name": "winter",
+                                "previous_name": "summer"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-length",
+                                "name": "maxi",
+                                "previous_name": "midi"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-neckline",
+                                "name": "v-neck"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-details",
+                                "name": "no"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-neckline-details",
+                                "name": "no"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-pockets",
+                                "name": "welt"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-fit",
+                                "name": "relaxed"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-fastening",
+                                "name": "bow"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-sleeves",
+                                "name": "three-fourth"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-print",
+                                "name": "floral"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-strap-type",
+                                "name": "no"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-shoulder-type",
+                                "name": "no"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-hem",
+                                "name": "hi-lo"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-occasion",
+                                "name": "party"
+                            },
+                            {
+                                "attribute_category": "womens-dress-shape",
+                                "name": "aline"
+                            },
+                            {
+                                "attribute_category": "womens-dresses-sleeves-type",
+                                "name": "puffed-sleeve"
+                            }
+                        ]
+                    },
+                    "image_id": "AJIO_23_DR",
+                    "google_product_category": "womens-dresses"
+                }
+            },
+            {
+                "_index": "e0143bb3-d584-4a94-b80a-fcfd74a1e818",
+                "_type": "_doc",
+                "_id": "AJIO_26_MJN",
+                "_score": 1.0,
+                "_source": {
+                    "analysis_result": {
+                        "attributes": [
+                            {
+                                "attribute_category": "mens-jeans-fastening",
+                                "name": "no-fastening"
+                            },
+                            {
+                                "attribute_category": "mens-jeans-bottoms-length",
+                                "name": "seven-eighth",
+                                "previous_name": "full"
+                            },
+                            {
+                                "attribute_category": "mens-jeans-hem",
+                                "name": "elastic",
+                                "previous_name": "straight"
+                            },
+                            {
+                                "attribute_category": "mens-jeans-pockets",
+                                "name": "welt"
+                            },
+                            {
+                                "attribute_category": "mens-jeans-print",
+                                "name": "solid"
+                            },
+                            {
+                                "attribute_category": "mens-jeans-type",
+                                "name": "slim"
+                            },
+                            {
+                                "attribute_category": "mens-jeans-occasion",
+                                "name": "casual"
+                            },
+                            {
+                                "attribute_category": "mens-jeans-wash",
+                                "name": "dark"
+                            }
+                        ]
+                    },
+                    "image_id": "AJIO_26_MJN",
+                    "google_product_category": "mens-jeans"
+                }
+            },
+            {
+                "_index": "e0143bb3-d584-4a94-b80a-fcfd74a1e818",
+                "_type": "_doc",
+                "_id": "AJIO_19_MS",
+                "_score": 1.0,
+                "_source": {
+                    "analysis_result": {
+                        "attributes": [
+                            {
+                                "attribute_category": "mens-shirts-neckline-details",
+                                "name": "collar"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-hem",
+                                "name": "curved"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-print",
+                                "name": "floral"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-top-length",
+                                "name": "long"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-fit",
+                                "name": "relaxed"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-pockets",
+                                "name": "welt"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-sleeves",
+                                "name": "short"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-fastening",
+                                "name": "button-up"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-collar-style",
+                                "name": "mandarin"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-pockets",
+                                "name": "welt"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-occasion",
+                                "name": "casual"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-fit",
+                                "name": "relaxed"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-neckline-details",
+                                "name": "collar"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-hem",
+                                "name": "curved"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-top-length",
+                                "name": "long"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-fastening",
+                                "name": "button-up"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-print",
+                                "name": "floral"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-sleeves",
+                                "name": "short"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-collar-style",
+                                "name": "mandarin"
+                            },
+                            {
+                                "attribute_category": "mens-shirts-occasion",
+                                "name": "casual"
+                            }
+                        ]
+                    },
+                    "image_id": "AJIO_19_MS",
+                    "google_product_category": "mens-shirt"
+                }
+            }
+        ]
+    }
+}

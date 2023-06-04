@@ -19,3 +19,16 @@
 
 # Go workspace file
 go.work
+
+# VS Code files
+.vscode/**
+
+# Ignore build output found directly underthe build directory
+build/anyjson2csv
+!build/windows/*
+!build/linux/*
+!build/macos/*
+
+
+# Project test data
+*.csv
